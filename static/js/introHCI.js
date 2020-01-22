@@ -32,4 +32,3 @@ function projectClick(e){
 
 	// Add any additional listeners here
 	// example: $("#div-id").click(functionToCall);
-}
